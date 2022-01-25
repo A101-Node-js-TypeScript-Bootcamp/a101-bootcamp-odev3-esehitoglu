@@ -64,9 +64,9 @@ Any product with isDiscount should not be deleted, an error should be returned)
 
 ## Used technologies
 
-**İstemci:** Javascript
+**Client:** Javascript
 
-**Sunucu:** Node, Express , Amazon DynamoDB
+**Server:** Node, Express , Amazon DynamoDB
 
    # Directory structure
 
