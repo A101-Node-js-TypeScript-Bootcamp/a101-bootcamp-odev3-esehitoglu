@@ -101,3 +101,7 @@ Any product with isDiscount should not be deleted, an error should be returned)
 <img src="https://readme-typing-svg.herokuapp.com?font=arial-bold&color=%23F70000&size=28&duration=10000&vCenter=true&multiline=true&lines=B%E2%86%92" />
 </h1>
 <br>
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/l4FAPaGGeB7D1LfIA/giphy.gif?cid=ecf05e47v7tl4lqkwqi94wxr0h96a7enpcsvqcspuf5xkotr&rid=giphy.gif&ct=g" />
+</p>
