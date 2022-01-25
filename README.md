@@ -22,9 +22,10 @@ Use the code below to start the application
 
 # Previews
 
-<p>
+<h1>
 <img align="left" src="https://readme-typing-svg.herokuapp.com?font=arial-bold&color=%23F70000&size=28&duration=10000&vCenter=true&lines=A%E2%86%92" />
-</p></br>
+</h1>
+
 
 📗 1) Write a POST endpoint that adds products to the Products table
 
