@@ -95,3 +95,9 @@ Any product with isDiscount should not be deleted, an error should be returned)
        - [products.js](routes/products/products.js)
    - __services__
      - [products.js](services/products.js)
+
+<br>
+<h1 align="left">
+<img src="https://readme-typing-svg.herokuapp.com?font=arial-bold&color=%23F70000&size=28&duration=10000&vCenter=true&multiline=true&lines=B%E2%86%92" />
+</h1>
+<br>
