@@ -1,7 +1,7 @@
 
 # 🚀 A101 Bootcamp Third Week Exercise 🌞
 
-This project is about jwt, express and Trendyol integration.
+This project describes creating a product table and performing the necessary operations using amazon dynamodb.
 
 # ✨ Installation
 
