@@ -22,6 +22,8 @@ Use the code below to start the application
 
 # Previews
 
+<h1 style="color:red;font-weight:bold"> A→ </h1>
+
 📗 1) Write a POST endpoint that adds products to the Products table
 
 ![Uygulama Ekran Görüntüsü](https://github.com/A101-Node-js-TypeScript-Bootcamp/a101-bootcamp-odev3-esehitoglu/blob/main/figures/1.png)
