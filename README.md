@@ -103,5 +103,9 @@ Any product with isDiscount should not be deleted, an error should be returned)
 <br>
 
 <p align="center">
+  <img src="https://miro.medium.com/max/1400/1*-fYuURITlpsGyKpfqKP6gg.png" />
+</p>
+
+<p align="center">
   <img src="https://media3.giphy.com/media/l4FAPaGGeB7D1LfIA/giphy.gif?cid=ecf05e47v7tl4lqkwqi94wxr0h96a7enpcsvqcspuf5xkotr&rid=giphy.gif&ct=g" />
 </p>
